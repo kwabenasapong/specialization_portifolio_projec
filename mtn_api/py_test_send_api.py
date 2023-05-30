@@ -2,6 +2,7 @@
 
 '''
 This is a test script to send a message using the MTN API
+AppName = bulkSMSSender
 '''
 
 import requests
